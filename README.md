@@ -31,3 +31,17 @@ The modeled metrics show the tradeoffs across sustainability, cost, grid resilie
 
 ## 📁 Repository Contents
 * `energy_market_scenarios.m`: MATLAB script comparing and plotting the metrics (renewable integration, cost index, grid resilience, carbon emissions) of the three scenarios.
+
+---
+
+## 🛠️ How to Run
+1. **Prerequisites**: MATLAB or GNU Octave (free, open-source).
+2. **Steps to Run**:
+   - Open MATLAB or GNU Octave.
+   - Navigate to the repository directory.
+   - Run the simulation script:
+     ```matlab
+     energy_market_scenarios
+     ```
+   - The script will output the quantitative parameters comparing Baseline, Renewable Incentivisation, and DSR, and generate bar plots (`scenario_metrics_comparison.png` and `carbon_emissions_comparison.png`).
+
