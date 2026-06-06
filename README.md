@@ -317,3 +317,5 @@ The line between the two lists is not always sharp: the MATLAB and basic energy-
 ## 10. Topics
 
 `uk-energy` `energy-modelling` `grid-resilience` `matlab` `policy-modelling` `renewable-energy` `carbon-reduction` `net-zero` `scenario-analysis` `demand-side-response` `hres` `individual-project` `dissertation`
+
+<!-- cache-bust: 2026-06-06-1455 -->
