@@ -297,18 +297,12 @@ On completion of this project the following capabilities were demonstrated:
 
 ## 11. Engineering tools: what was taught, what was self-taught
 
-**Taught during the undergraduate programme (Wrexham University, BEng Aeronautical and Mechanical Engineering, 2016 to 2020):**
+**Taught during the undergraduate programme (Wrexham University, BEng Aeronautical and Mechanical Engineering, 2016 to 2020):** this report is a write-up of the final-year dissertation, with background from the BEng.
 
-The numerical methods, aerodynamics, and report-writing skills that underpin this project were taught in the BEng programme. The exact combination of modules and the specific commercial software in use at the time are not separately itemised here, because the value of this section is in the boundary between the taught chapter and the self-taught chapter that follows, not in a module-by-module transcript.
+- **ENG6AG (final-year dissertation).** The UK energy-market project, the exploratory mixed-methods framework, the citation style, the scenario-comparison table, and the viva defence all come from this module. The report in this repo is the dissertation write-up.
+- **Background from the BEng.** The energy-systems background, the technical-report conventions, and the underlying engineering science (heat transfer, thermodynamics, gas-turbine theory) were covered elsewhere in the BEng and provide the background for the dissertation.
 
-In broad terms, the taught chapter covered:
 
-- The engineering mathematics that supports the work: differential equations, numerical methods, and stability analysis.
-- The relevant engineering science for each project (aerodynamics, heat transfer, energy systems, or aircraft design, depending on the assignment).
-- MATLAB for numerical-modelling assignments, including vectorised array operations, plotting, and small optimisation problems.
-- Technical report writing in British English, including structure, figure presentation, and referencing.
-
-The remainder of the work in this repository (the choice of specific software, the design of the figures, the addition of 3D visualisations, the conversion of Excel data to web-friendly formats, and the way the report is published on GitHub) is the self-taught chapter below.
 
 **Self-taught after graduation, in the home laboratory:**
 
