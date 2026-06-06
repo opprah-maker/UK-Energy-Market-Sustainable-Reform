@@ -111,37 +111,37 @@ All 31 figures are extracted from the original dissertation and renamed sequenti
 
 | Fig. | Preview | Description |
 |---|---|---|
-| 1 | ![](images/figure-01.png) | Hybrid Renewable Energy Systems (HRES) modelling framework — block diagram showing the coupling of solar PV, wind, storage, and grid |
-| 2 | ![](images/figure-02.png) | Model configuration schematic — input data, scenario parameters, and output metrics |
-| 3 | ![](images/figure-03.png) | Economic metric for energy market reform evaluation — composite index combining LCOE, consumer price, and capacity cost |
-| 4 | ![](images/figure-04.png) | Carbon emission reduction trajectory — Baseline vs. Renewable Incentivisation vs. DSR (2025-2050) |
-| 5 | ![](images/figure-05.png) | UK energy LCOE trends — levelised cost of electricity by technology (solar, wind, nuclear, gas, coal) |
-| 6 | ![](images/figure-06.png) | Storage requirements vs. renewable capacity — battery sizing curve for grid stability |
-| 7 | ![](images/figure-07.png) | Peak load balancing and demand-side response — load curve flattening via DSR |
-| 8 | ![](images/figure-08.png) | UK energy system scenarios comparison — side-by-side metrics table |
-| 9 | ![](images/figure-09.png) | UK power sector emissions projections — historical and projected CO2 from electricity generation |
-| 10 | ![](images/figure-10.png) | Energy expenditure of income by decile — fuel poverty risk distribution |
-| 11 | ![](images/figure-11.png) | UK renewable energy growth 2010-2023 — installed capacity by technology |
-| 12 | ![](images/figure-12.png) | UK energy market reform challenges — barrier taxonomy (regulatory, technical, social, economic) |
-| 13 | ![](images/figure-13.png) | Policy impact analysis — multi-criteria decision matrix for reform options |
-| 14 | ![](images/figure-14.png) | Pricing mechanism comparative analysis — feed-in tariff, CfD, capacity market, DSR pricing |
-| 15 | ![](images/figure-15.png) | DSR potential analysis — flexible load by sector (residential, commercial, industrial) |
-| 16 | ![](images/figure-16.png) | Integrated market reform framework — combining fair pricing, renewables, and DSR |
-| 17 | ![](images/figure-17.png) | UK grid frequency response — inertia and synthetic inertia from renewables |
-| 18 | ![](images/figure-18.png) | Consumer cost breakdown — wholesale, network, policy, and social costs |
-| 19 | ![](images/figure-19.png) | Renewable curtailment rates — excess generation under different flexibility scenarios |
-| 20 | ![](images/figure-20.png) | Capacity market clearing prices — historical and projected |
-| 21 | ![](images/figure-21.png) | Net-zero pathway timeline — UK government milestones 2030/2035/2050 |
-| 22 | ![](images/figure-22.png) | Heat pump adoption projection — electrification of residential heating |
-| 23 | ![](images/figure-23.png) | EV charging load profile — impact on evening peak demand |
-| 24 | ![](images/figure-24.png) | Interconnector flows — UK-EU electricity trade patterns |
-| 25 | ![](images/figure-25.png) | Green hydrogen production cost — electrolysis cost reduction trajectory |
-| 26 | ![](images/figure-26.png) | Carbon pricing scenarios — UK ETS price projections |
-| 27 | ![](images/figure-27.png) | Just transition metrics — job creation in renewable vs. fossil sectors |
-| 28 | ![](images/figure-28.png) | Energy security indicators — import dependency and supply diversity |
-| 29 | ![](images/figure-29.png) | Smart meter rollout statistics — UK deployment progress |
-| 30 | ![](images/figure-30.png) | Comparative policy framework — UK, Germany, Denmark, Norway reform comparison |
-| 31 | ![](images/figure-31.png) | Integrated conclusions infographic — key metrics and policy recommendations |
+| 1 | <a href="images/figure-01.png"><img src="images/figure-01.png" width="120" alt="Figure 1"></a> | Hybrid Renewable Energy Systems (HRES) modelling framework — block diagram showing the coupling of solar PV, wind, storage, and grid |
+| 2 | <a href="images/figure-02.png"><img src="images/figure-02.png" width="120" alt="Figure 2"></a> | Model configuration schematic — input data, scenario parameters, and output metrics |
+| 3 | <a href="images/figure-03.png"><img src="images/figure-03.png" width="120" alt="Figure 3"></a> | Economic metric for energy market reform evaluation — composite index combining LCOE, consumer price, and capacity cost |
+| 4 | <a href="images/figure-04.png"><img src="images/figure-04.png" width="120" alt="Figure 4"></a> | Carbon emission reduction trajectory — Baseline vs. Renewable Incentivisation vs. DSR (2025-2050) |
+| 5 | <a href="images/figure-05.png"><img src="images/figure-05.png" width="120" alt="Figure 5"></a> | UK energy LCOE trends — levelised cost of electricity by technology (solar, wind, nuclear, gas, coal) |
+| 6 | <a href="images/figure-06.png"><img src="images/figure-06.png" width="120" alt="Figure 6"></a> | Storage requirements vs. renewable capacity — battery sizing curve for grid stability |
+| 7 | <a href="images/figure-07.png"><img src="images/figure-07.png" width="120" alt="Figure 7"></a> | Peak load balancing and demand-side response — load curve flattening via DSR |
+| 8 | <a href="images/figure-08.png"><img src="images/figure-08.png" width="120" alt="Figure 8"></a> | UK energy system scenarios comparison — side-by-side metrics table |
+| 9 | <a href="images/figure-09.png"><img src="images/figure-09.png" width="120" alt="Figure 9"></a> | UK power sector emissions projections — historical and projected CO2 from electricity generation |
+| 10 | <a href="images/figure-10.png"><img src="images/figure-10.png" width="120" alt="Figure 10"></a> | Energy expenditure of income by decile — fuel poverty risk distribution |
+| 11 | <a href="images/figure-11.png"><img src="images/figure-11.png" width="120" alt="Figure 11"></a> | UK renewable energy growth 2010-2023 — installed capacity by technology |
+| 12 | <a href="images/figure-12.png"><img src="images/figure-12.png" width="120" alt="Figure 12"></a> | UK energy market reform challenges — barrier taxonomy (regulatory, technical, social, economic) |
+| 13 | <a href="images/figure-13.png"><img src="images/figure-13.png" width="120" alt="Figure 13"></a> | Policy impact analysis — multi-criteria decision matrix for reform options |
+| 14 | <a href="images/figure-14.png"><img src="images/figure-14.png" width="120" alt="Figure 14"></a> | Pricing mechanism comparative analysis — feed-in tariff, CfD, capacity market, DSR pricing |
+| 15 | <a href="images/figure-15.png"><img src="images/figure-15.png" width="120" alt="Figure 15"></a> | DSR potential analysis — flexible load by sector (residential, commercial, industrial) |
+| 16 | <a href="images/figure-16.png"><img src="images/figure-16.png" width="120" alt="Figure 16"></a> | Integrated market reform framework — combining fair pricing, renewables, and DSR |
+| 17 | <a href="images/figure-17.png"><img src="images/figure-17.png" width="120" alt="Figure 17"></a> | UK grid frequency response — inertia and synthetic inertia from renewables |
+| 18 | <a href="images/figure-18.png"><img src="images/figure-18.png" width="120" alt="Figure 18"></a> | Consumer cost breakdown — wholesale, network, policy, and social costs |
+| 19 | <a href="images/figure-19.png"><img src="images/figure-19.png" width="120" alt="Figure 19"></a> | Renewable curtailment rates — excess generation under different flexibility scenarios |
+| 20 | <a href="images/figure-20.png"><img src="images/figure-20.png" width="120" alt="Figure 20"></a> | Capacity market clearing prices — historical and projected |
+| 21 | <a href="images/figure-21.png"><img src="images/figure-21.png" width="120" alt="Figure 21"></a> | Net-zero pathway timeline — UK government milestones 2030/2035/2050 |
+| 22 | <a href="images/figure-22.png"><img src="images/figure-22.png" width="120" alt="Figure 22"></a> | Heat pump adoption projection — electrification of residential heating |
+| 23 | <a href="images/figure-23.png"><img src="images/figure-23.png" width="120" alt="Figure 23"></a> | EV charging load profile — impact on evening peak demand |
+| 24 | <a href="images/figure-24.png"><img src="images/figure-24.png" width="120" alt="Figure 24"></a> | Interconnector flows — UK-EU electricity trade patterns |
+| 25 | <a href="images/figure-25.png"><img src="images/figure-25.png" width="120" alt="Figure 25"></a> | Green hydrogen production cost — electrolysis cost reduction trajectory |
+| 26 | <a href="images/figure-26.png"><img src="images/figure-26.png" width="120" alt="Figure 26"></a> | Carbon pricing scenarios — UK ETS price projections |
+| 27 | <a href="images/figure-27.png"><img src="images/figure-27.png" width="120" alt="Figure 27"></a> | Just transition metrics — job creation in renewable vs. fossil sectors |
+| 28 | <a href="images/figure-28.png"><img src="images/figure-28.png" width="120" alt="Figure 28"></a> | Energy security indicators — import dependency and supply diversity |
+| 29 | <a href="images/figure-29.png"><img src="images/figure-29.png" width="120" alt="Figure 29"></a> | Smart meter rollout statistics — UK deployment progress |
+| 30 | <a href="images/figure-30.png"><img src="images/figure-30.png" width="120" alt="Figure 30"></a> | Comparative policy framework — UK, Germany, Denmark, Norway reform comparison |
+| 31 | <a href="images/figure-31.png"><img src="images/figure-31.png" width="120" alt="Figure 31"></a> | Integrated conclusions infographic — key metrics and policy recommendations |
 
 ---
 
