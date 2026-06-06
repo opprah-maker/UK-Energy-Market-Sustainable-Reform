@@ -11,6 +11,8 @@ This repository contains the full individual project dissertation evaluating the
 [![Report PDF](https://img.shields.io/badge/Report-PDF-red?logo=adobe-acrobat-reader&logoColor=white)]()
 [![MATLAB](https://img.shields.io/badge/MATLAB-Orange?logo=mathworks&logoColor=white)]()
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
+
 ---
 
 ## Table of Contents
