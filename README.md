@@ -11,7 +11,7 @@ This repository contains the full individual project dissertation evaluating the
 [![Report PDF](https://img.shields.io/badge/Report-PDF-red?logo=adobe-acrobat-reader&logoColor=white)]()
 [![MATLAB](https://img.shields.io/badge/MATLAB-Orange?logo=mathworks&logoColor=white)]()
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1?repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
 
 ---
 
@@ -164,9 +164,9 @@ The quantitative scenario comparison is implemented in MATLAB:
 1. Open MATLAB or GNU Octave.
 2. Navigate to the repository directory.
 3. Run the simulation script:
-   ```matlab
-   energy_market_scenarios
-   ```
+ ```matlab
+ energy_market_scenarios
+ ```
 4. The script will output the quantitative parameters comparing Baseline, Renewable Incentivisation, and DSR, and generate bar plots.
 
 The full dissertation in `reports/Individual-Project.pdf` contains the complete methodology, all 31 figures, and the full literature review.
