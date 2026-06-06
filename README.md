@@ -11,10 +11,10 @@ This repository contains the full individual project dissertation evaluating the
 
 [![UK Energy](https://img.shields.io/badge/UK-Energy%20Reform-0E7C7B)]()
 [![Individual Project](https://img.shields.io/badge/University-Individual%20Project-orange)]()
-[![Report PDF](https://img.shields.io/badge/Report-PDF-redlogo=adobe-acrobat-reader&logoColor=white)]()
-[![MATLAB](https://img.shields.io/badge/MATLAB-Orangelogo=mathworks&logoColor=white)]()
+[![Report PDF](https://img.shields.io/badge/Report-PDF-red?logo=adobe-acrobat-reader&logoColor=white)]()
+[![MATLAB](https://img.shields.io/badge/MATLAB-Orange?logo=mathworks&logoColor=white)]()
 
-[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orangestyle=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
+[![Open in MATLAB Online](https://img.shields.io/badge/Open%20in-MATLAB%20Online-orange?style=flat-square&logo=mathworks&logoColor=white)](https://matlab.mathworks.com/open/github/v1repo=opprah-maker/UK-Energy-Market-Sustainable-Reform&file=energy_market_scenarios.m)
 
 ---
 
