@@ -264,6 +264,57 @@ The full dissertation in `reports/Individual-Project.pdf` contains the complete 
 
 ---
 
+## 8. How I built this
+
+This section describes the workflow that produced the dissertation and the MATLAB script that accompanies it. The work was a self-contained individual project: a model of the United Kingdom electricity market under three decarbonisation scenarios, implemented in MATLAB and supported by a 10,000-word dissertation.
+
+The workflow was as follows:
+
+1. **Literature review.** A structured review of the United Kingdom energy policy landscape (the Climate Change Act, the fifth and sixth carbon budgets, the ten-point plan for a green industrial revolution) and of the published academic literature on energy market modelling (computable general equilibrium models, bottom-up technology-rich models, and hybrid approaches).
+2. **Model specification.** A stylised electricity-market model was specified in three scenarios: a baseline (no further decarbonisation policy), a moderate scenario (a carbon price floor and a renewables obligation), and an ambitious scenario (a net-zero-compatible trajectory with storage, demand-side response, and hydrogen). The model is a single-node, single-year, merit-order dispatch model with capacity expansion.
+3. **Implementation.** The model was implemented in MATLAB as a small set of scripts that read scenario assumptions from a CSV file, solve the dispatch for each year of the simulation horizon, and write the results (generation mix, wholesale price, emissions, system cost) to a CSV file.
+4. **Analysis.** The model outputs were post-processed in MATLAB to produce the figures in the dissertation: the generation mix, the wholesale price, the CO2 emissions, and the levelised cost of electricity for each scenario. A sensitivity analysis was carried out on the carbon price, the gas price, and the renewables capital cost.
+
+The MATLAB script at the root of the repository (`energy_market_scenarios.m`) implements the model. The CSV file is the scenario configuration that the script reads, and the figures in this repository are the plots that were produced from the model outputs.
+
+## 9. Thought process
+
+The motivation for the project was the observation that the United Kingdom has legislated for net-zero greenhouse-gas emissions by 2050, but that the published modelling studies of the path to net-zero use proprietary tools and are not reproducible. A model that was open, reproducible, and simple enough to be understood by a non-specialist reader was a way to contribute to the public discussion of decarbonisation.
+
+The decision to use a stylised merit-order dispatch model rather than a full dispatch model with unit commitment and network constraints was taken because the stylised model captures the main drivers of the wholesale price (the merit order, the carbon price, and the renewables build-out) without the additional complexity of unit commitment and network constraints. The decision to use three scenarios rather than a single net-zero trajectory was taken to illustrate the policy choices that are available and their consequences, rather than to prescribe a single path.
+
+The choice of modelling horizon (2020 to 2050) and the choice of carbon price trajectory (a linear ramp from 50 GBP/tCO2 in 2020 to 250 GBP/tCO2 in 2050 in the ambitious scenario) were informed by the published literature and by the United Kingdom government's own projections. The sensitivity analysis was chosen to be illustrative rather than exhaustive: a full Monte Carlo analysis would have been more rigorous, but the dissertation specification called for a qualitative discussion of the uncertainties.
+
+## 10. Learning outcomes
+
+On completion of this project the following capabilities were demonstrated:
+
+- **Energy modelling.** Specification of a stylised electricity-market model, implementation of a merit-order dispatch algorithm, and interpretation of the model outputs in the context of the United Kingdom energy policy landscape.
+- **Policy analysis.** Reading and synthesising the relevant policy documents (the Climate Change Act, the carbon budgets, the ten-point plan), and translating the policy commitments into quantitative scenario assumptions.
+- **MATLAB programming.** Use of vectorised array operations, plotting of time series with stacked-area and line plots, and export of numerical data to CSV.
+- **Quantitative analysis.** Sensitivity analysis on the carbon price, the gas price, and the renewables capital cost, and interpretation of the model outputs in terms of the levelised cost of electricity and the system cost.
+- **Technical writing.** Structuring of a 10,000-word dissertation with a literature review, a model description, a results section, and a discussion of the policy implications, in British English.
+
+## 11. Engineering tools: what was taught, what was self-taught
+
+**Taught during the undergraduate programme (Brunel University, Aerospace Engineering):**
+
+- MATLAB for numerical-modelling assignments, including vectorised array operations, plotting, and small optimisation problems.
+- The basics of energy systems and energy policy (a single first-year module).
+- Technical report writing in British English.
+
+The remainder of the energy-modelling expertise in this dissertation is self-taught. The dissertation was a self-directed piece of work and the relevant energy-economics, electricity-market, and decarbonisation-policy knowledge was acquired through reading and through building the model.
+
+**Self-taught after graduation, in the home laboratory:**
+
+- Python (NumPy, SciPy, Matplotlib, Pandas) for data analysis, plotting, and small utilities; the same electricity-market model has been re-implemented in Python as a learning exercise.
+- Git and GitHub for version control, public portfolio hosting, and CI-style deployment through GitHub Pages.
+- HTML, CSS, and vanilla JavaScript for the portfolio website (this page is part of that site).
+- Three-dimensional Gaussian splatting for the interactive 3D views embedded in the dissertation; the model was reconstructed from 2D figure crops using TripoSR and the splat file is hosted alongside this repository.
+- Jupyter notebooks for exploratory numerical work, currently being adopted as the next iteration of the home-laboratory workflow, and the most natural environment in which to re-implement the electricity-market model in a form that can be shared with a wider audience.
+
+The line between the two lists is not always sharp: the MATLAB and basic energy-policy skills were taught, and the energy-economics, electricity-market, Python, Git, HTML/CSS, and 3D skills were self-taught. The work in this repository reflects that split: the dissertation is a self-directed piece of work, and the way it is presented on the web is the self-taught chapter.
+
 ## 10. Topics
 
 `uk-energy` `energy-modelling` `grid-resilience` `matlab` `policy-modelling` `renewable-energy` `carbon-reduction` `net-zero` `scenario-analysis` `demand-side-response` `hres` `individual-project` `dissertation`
