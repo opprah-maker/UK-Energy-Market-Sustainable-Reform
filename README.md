@@ -297,10 +297,12 @@ On completion of this project the following capabilities were demonstrated:
 
 ## 11. Engineering tools: what was taught, what was self-taught
 
-**Taught during the undergraduate programme (Wrexham University, BEng Aeronautical and Mechanical Engineering, 2016 to 2020):** this report is a write-up of the final-year dissertation, with background from the BEng.
+**The taught chapter (BEng Aeronautical and Mechanical Engineering, Wrexham University, 2016 to 2020):** this report is a write-up of the final-year dissertation, with background from the BEng.
 
-- **ENG6AG (final-year dissertation).** The UK energy-market project, the exploratory mixed-methods framework, the citation style, the scenario-comparison table, and the viva defence all come from this module. The report in this repo is the dissertation write-up.
+- **ENG6AG (final-year dissertation).** The UK energy-market project, the exploratory mixed-methods framework, the citation style, the scenario-comparison table, and the viva defence all come from this module. The report in this repo is the dissertation write-up. The dissertation was the first time I had to defend my methodology in front of an academic panel, and I learned more from the viva than from the writing.
 - **Background from the BEng.** The energy-systems background, the technical-report conventions, and the underlying engineering science (heat transfer, thermodynamics, gas-turbine theory) were covered elsewhere in the BEng and provide the background for the dissertation.
+
+
 
 
 
