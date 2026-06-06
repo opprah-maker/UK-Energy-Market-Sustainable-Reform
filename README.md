@@ -48,8 +48,6 @@ The complete individual project dissertation is available as a PDF:
 |---|---|
 | Reforming the UK Energy Market for Sustainable Development | [`reports/Individual-Project.pdf`](reports/Individual-Project.pdf) |
 
-A plain-text extract is also included in [`reports/Individual-Project_text.txt`](reports/Individual-Project_text.txt).
-
 The original submitted copy is preserved at the repository root as `Individual project .docx`.
 
 ---
