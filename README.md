@@ -1,5 +1,8 @@
 # Reforming the UK Energy Market for Sustainable Development: Integrating Renewables, Fair Pricing, and Demand-Side Response
 
+<!-- Last refreshed: 2026-06-06 -->
+
+
 > **Individual Project Dissertation** — Module ENG6AG
 > Author: Opprah Manyika (S23007133)
 > Supervisor: Dr. Mohammed Mohammed
